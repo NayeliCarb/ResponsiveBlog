@@ -1,0 +1,214 @@
+.back1{
+	background-color: #130B17;
+}
+.imgFlat{
+	width: 65%;
+	height: 20%;
+}
+ul{
+	list-style-type: none;
+	margin-top: 2% !important;
+	margin-left: 15% !important;
+	font-family: 'embedded-opentype';	
+}
+li{
+	list-style-type: none;
+	display: inline-block;
+}
+.clr{
+	color: white;
+}
+.li1{
+	
+}
+.backMora{
+	background-color: #2F2633;
+}
+.navbar1{
+	margin-bottom: 0px !important;
+}
+.backFloMor{
+	margin-top: 5%;
+	margin-bottom: 5%;
+	background-image: url(../image/header-image.jpg);
+	background-size: 100% 170%;
+	height: 30em;
+	padding-top: 8%;
+	padding-bottom: 8%;
+}
+.cuadroNegro{
+	margin-left: 20%;
+	margin-right: 20%;
+	background-color: #130B17;
+	height: 100%;
+	padding-left: 5%;
+	padding-right: 5%;
+	text-align: center;
+}
+.lis1{
+	color: #F3D178;
+	font-family: 'Courgette';
+	font-size: 6em;
+	font-weight: 900;
+	padding-top: 7%;
+}
+.list{
+	margin-top: 3%;
+	display: inline-block;
+	color: white;
+	padding-right:3%; 
+}
+.imgText{
+	width: 100%;
+	height: 15em;
+}
+p{
+	font-style: italic;
+	font-family: 'Open Sans';
+}
+.cuadroNombre{
+	background-color: #130B17;
+	text-align: center;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	margin-bottom: 10%;
+}
+.cuaNom{
+	padding-left:2%;
+	padding-right: 2%; 
+	text-align: none !important;
+}
+.clr1{
+	color: #F3D178;
+	font-family: 'Courgette';
+	font-style: normal;
+}
+.clr2{
+	color: white;
+}
+.imgTxt{
+	height: 25em !important;
+}
+.parr{
+	color: white;
+	text-align: initial;
+	font-family: 'Open Sans';
+	font-style: normal;
+}
+.cuadroInput{
+	background-color: #130B17;
+	border-radius: 1em;
+	padding: 6%;
+}
+.inp{
+	width: 100%;
+	height: 3em;
+	border-radius: 5px;
+	background-color: #2F2633; 
+	padding-left: 2%;
+	border: none;
+	color: white;
+}
+.cuadroAboutMe{
+	background-color: #130B17;
+	margin-top: 3%;
+}
+.pAbout{
+	font-family: 'Courgette';
+	color: #F3D178;
+	text-align: center;
+	font-size: 150%;
+	margin-bottom: 3%;
+	font-style: normal;
+}
+.imgAboutMe{
+	width: 100%;
+}
+.cuadroAmanda{
+	background-color: #130B17;
+	padding-bottom: 5%;
+}
+.amanda{
+	color: white;
+	text-align: center;
+	font-family: 'Open Sans';
+	font-style: normal;
+	margin-top: 2%;
+	font-size: 120%;
+}
+.pAmanda{
+	color: white;
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-size: 110%;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+.circ{
+	background-color: #2F2633;
+	border-radius: 150%;
+	width: 4em;
+	height: 4em;
+	padding: 3.5%;
+	margin-left: 10%;
+	margin-top: 5%;
+	display: inline-block;
+}
+.clrico{
+	color: white;
+	position: absolute;
+}
+.cir1{
+	margin-left: 5%;
+}
+.video{
+	margin-left: -2%;
+}
+.pVideo{
+	color: white;
+	font-family: 'Open Sans';
+	font-style: normal;
+	margin-top: 2%;
+	text-align: initial;
+}
+.backfoot{
+	background-color: #130B17;
+	text-align: center;
+	color: white;
+	padding-top: 3%;
+	padding-bottom: 3%;
+}
+.aFoot{
+	color: gray;
+	font-family: 'Open Sans';
+	font-style: normal;
+}
+/* Responsive */
+
+@media (min-width: 0px) and (max-width : 767px) {
+	.imgFlat{
+		width: 250%;
+	}
+	.btnColl{
+		margin-right: -20% !important;
+		margin-top: 10% !important;
+	}
+	.list{
+		padding-left: 3% !important;
+		margin-left: -5% !important;
+	}
+	.backFloMor{
+		background-size: 100% 100%;
+	}
+	.cuadroNombre{
+		margin-left: 0%;
+	}
+	.cuadroNegro{
+		margin-left: 10%;
+		margin-right: 10%;
+	}
+}
+
+@media screen and (max-width: 600px) {
+
+}
